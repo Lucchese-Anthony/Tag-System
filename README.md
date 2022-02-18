@@ -1,6 +1,6 @@
 # Tag-System
 
-These programs were made in tandem with my Chaos and Fractals course, MATH320, where we were to solve [Post Tag's system]{https://en.wikipedia.org/wiki/Tag_system}
+These programs were made in tandem with my Chaos and Fractals course, MATH320, where we were to solve [Post Tag's system](https://en.wikipedia.org/wiki/Tag_system)
 
 This system has 3 states:
 
