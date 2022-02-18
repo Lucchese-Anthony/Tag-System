@@ -16,3 +16,7 @@ so as an example we will assume the string "aabba"
 or "bbb"
     
     bbb => bbab => bbbab => abbbab => babaa => aabbab => babaa => aabbab (cycle found aabbab)
+
+solveSingleTagSystem.py solves a single Tag System provided by the user
+
+generateRandomTagSystem.py generates random Systems to find the longest cycle possible (not properly optimized, O(n^2) i believe)
